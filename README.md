@@ -38,9 +38,3 @@ The project utilizes a **U-Net-based convolutional neural network (CNN)** with:
 🔹 **Enhances** battery research, efficiency optimization, and material science.  
 🔹 **Automates** battery material characterization for **EVs, energy storage, and manufacturing**.  
 🔹 **Provides AI-driven insights** into material degradation & composition analysis.  
-
-## How to Run the Project  
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/battery-segmentation-unet.git
-   cd battery-segmentation-unet
