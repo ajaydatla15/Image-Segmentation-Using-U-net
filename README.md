@@ -6,10 +6,10 @@
 ## Project Overview  
 This project focuses on **image segmentation** of **battery electrode microstructure images** using a **U-Net deep learning model**. The objective is to accurately identify and segment four key components of the battery material:  
 
-✅ **Pore**  
-✅ **Silicon**  
-✅ **Conductive Binder Domain (CBD)**  
-✅ **Graphite**  
+**Pore**  
+**Silicon**  
+**Conductive Binder Domain (CBD)**  
+**Graphite**  
 
 By leveraging **deep learning techniques**, this project enhances **material characterization, battery research, and performance analysis**.  
 
